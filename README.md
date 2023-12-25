@@ -128,7 +128,7 @@ This will execute the tasks and display the respective results after performing 
 
 
 
-**Node.js and TypeScript Assignment Documentation**
+# Node.js and TypeScript Assignment Documentation
 
 __Task 4: RESTful API Development__
 In this task, a RESTful API has been designed and implemented using Node.js and TypeScript. The API consists of the following endpoints:
@@ -244,7 +244,7 @@ Additionally, the middleware function logs request details in the terminal for e
 
 
 
-**Unit Testing Documentation**
+# Unit Testing Documentation
 
 __Task 6: Unit Testing.__
 For this task, the following steps were taken:
