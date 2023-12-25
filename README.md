@@ -8,7 +8,7 @@ git clone <repository_URL>
 Install dependencies: npm install
 
 
-**JavaScript Assignment Documentation**
+# JavaScript Assignment Documentation
 
 This repository contains a JavaScript assignment consisting of three tasks. Each task has been individually completed and placed in the Javascriptassessment.js file.
 
