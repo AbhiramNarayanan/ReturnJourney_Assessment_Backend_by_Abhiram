@@ -5,7 +5,23 @@ Clone the repository:
 git clone <repository_URL>
 
 
-Install dependencies: npm install
+**Install dependencies**: npm install
+
+**Configure .babelrc file**
+
+To set up Babel configurations for transpiling TypeScript code during testing, create a .babelrc file at the root of your project. Add the following content to the .babelrc file:
+
+{
+  "presets": [
+    "@babel/preset-env",
+    "@babel/preset-typescript"
+  ]
+}
+
+Note: The `.babelrc` file is a hidden file (starts with a dot) and may not be directly added to a GitHub repository. After running `npm install`, create the .babelrc file manually in your local project directory to configure Babel presets.
+
+
+This section outlines the necessary steps to clone the repository, install dependencies using npm, and manually create the `.babelrc` file to configure Babel presets for transpiling TypeScript code during testing.
 
 
 # JavaScript Assignment Documentation
